@@ -1,5 +1,8 @@
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <style>
+
+
+  <foreignObject width="100%" height="100%">
+      <style>
     
     .container {
       margin: 20px auto;
@@ -19,10 +22,7 @@
       font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
     }
 
-  </style>
-
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
+  </style><div xmlns="http://www.w3.org/1999/xhtml">
       
       <div class="container">
         <h1>Switch between light and dark mode to see the difference</h1>
