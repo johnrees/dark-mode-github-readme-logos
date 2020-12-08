@@ -9,8 +9,8 @@
       transform: rotate(1deg);
     }
     
-    [data-color-mode=dark] .container {
-      border-color: purple !important;
+    [data-color-mode=dark] {
+      background: red !important;
     }
 
     h1,
