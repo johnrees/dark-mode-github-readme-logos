@@ -12,7 +12,7 @@
       transform: rotate(1deg);
     }
     
-    [data-color-mode=dark] .container {
+    body {
       background: red !important;
     }
 
