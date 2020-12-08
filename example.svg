@@ -9,7 +9,7 @@
       transform: rotate(1deg);
     }
     
-    [data-color-mode=dark] {
+    body {
       background: red !important;
     }
 
