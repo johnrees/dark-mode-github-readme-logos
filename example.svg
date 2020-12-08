@@ -4,17 +4,17 @@
     :root {
       --border: pink;
     }
-
-    [data-color-mode=dark] {
-      --border: purple;
-    }
-
+    
     .container {
       margin: 20px auto;
       padding: 0 20px;
       max-width: 50%;
       border: 10px solid var(--border);
       transform: rotate(1deg);
+    }
+    
+    [data-color-mode=dark] .container {
+      border-color: purple;
     }
 
     h1,
